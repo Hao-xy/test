@@ -16,6 +16,6 @@ int main()
         exit(1);
     }
     read(fd,info,sizeof(info));
-    printf("%s",info);
+    printf("%s\n",info);
     return 0;
 }
