@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "signal2": "cpp",
-        "signal3": "cpp"
+        "signal3": "cpp",
+        "time.h": "c"
     }
 }
