@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/xuyuanhao19001010314/test/three'
+gcc -w -c surl.c -o surl.o
+gcc -o  surl surl.o -lcurl
+make: Leaving directory '/home/xuyuanhao19001010314/test/three'
+ 
