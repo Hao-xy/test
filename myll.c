@@ -121,7 +121,7 @@ void myls(char const* fname)
   printf(" %s",timebuf);
   printf(" %s",fname);
   if(typeflag==2){
-  	char namebuf[128];
+  	char namebuf[128
   	int num=readlink(fname,namebuf,sizeof(namebuf)-1);
   	if(num!=-1){
   		namebuf[num]='\0';

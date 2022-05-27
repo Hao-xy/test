@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a60f0784-1600-4f37-aa6e-dd93fa8ff575" name="变更" comment="1111">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/513" beforeDir="false" afterPath="$PROJECT_DIR$/513" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enevtest" beforeDir="false" afterPath="$PROJECT_DIR$/enevtest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fiforead" beforeDir="false" afterPath="$PROJECT_DIR$/fiforead" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fifowrite" beforeDir="false" afterPath="$PROJECT_DIR$/fifowrite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fork" beforeDir="false" afterPath="$PROJECT_DIR$/fork" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fork1" beforeDir="false" afterPath="$PROJECT_DIR$/fork1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycp" beforeDir="false" afterPath="$PROJECT_DIR$/mycp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myll" beforeDir="false" afterPath="$PROJECT_DIR$/myll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myls" beforeDir="false" afterPath="$PROJECT_DIR$/myls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pipe" beforeDir="false" afterPath="$PROJECT_DIR$/pipe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pthread1" beforeDir="false" afterPath="$PROJECT_DIR$/pthread1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pthreadl" beforeDir="false" afterPath="$PROJECT_DIR$/pthreadl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signal1" beforeDir="false" afterPath="$PROJECT_DIR$/signal1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signal2" beforeDir="false" afterPath="$PROJECT_DIR$/signal2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signal3" beforeDir="false" afterPath="$PROJECT_DIR$/signal3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timetest" beforeDir="false" afterPath="$PROJECT_DIR$/timetest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vfork" beforeDir="false" afterPath="$PROJECT_DIR$/vfork" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +56,7 @@
       <workItem from="1652435165696" duration="203000" />
       <workItem from="1652498023155" duration="27000" />
       <workItem from="1652768002155" duration="6000" />
+      <workItem from="1652951577446" duration="6000" />
     </task>
     <servers />
   </component>
